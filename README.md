@@ -13,4 +13,4 @@
 3. Run the `bitbake hmm` command
 
 ## Demo
-[demo](https://github.com/0xAMF/HMM-BitBake-build/blob/main/hmm_test.mp4)
+![demo](https://github.com/0xAMF/HMM-BitBake-build/blob/main/hmm_test.mp4)
