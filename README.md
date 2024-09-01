@@ -10,4 +10,4 @@
 
 1. Clone the repository.
 2. Navigate to the `build/` directory.
-3. Run the `bitbake hmm`
+3. Run the `bitbake hmm` command
