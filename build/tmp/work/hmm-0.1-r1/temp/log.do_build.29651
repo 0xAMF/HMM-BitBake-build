@@ -1,0 +1,7 @@
+DEBUG: Executing shell function do_build
+main.c: In function ‘main’:
+main.c:41:11: warning: unused variable ‘temp’ [-Wunused-variable]
+   41 |     void* temp = my_malloc(1024);
+      |           ^~~~
+=== Build Done ===
+DEBUG: Shell function do_build finished
